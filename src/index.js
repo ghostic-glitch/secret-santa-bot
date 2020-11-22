@@ -1,0 +1,1 @@
+require('./secret-santa').connect();
