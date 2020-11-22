@@ -1,6 +1,6 @@
 const { Client } = require('discord.js');
 
-let instance = '';
+let instance = ''; 
  
 class SecretSanta {
 

@@ -1,1 +1,1 @@
-require('./secret-santa').connect();
+require('./secret-santa').connect(); 
